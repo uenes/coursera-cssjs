@@ -1,0 +1,13 @@
+#nav-list a {
+  background: #C8C8C8;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background: #E0E0E0;
+}
+
+div.content {
+  background: #E0E2F9;
+  margin: auto;
+}
